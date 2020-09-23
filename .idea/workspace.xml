@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ad61e772-506a-4239-b5da-9f3a6ec422a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +113,7 @@
       <workItem from="1600871492223" duration="40000" />
       <workItem from="1600871640479" duration="652000" />
       <workItem from="1600872443120" duration="1426000" />
-      <workItem from="1600874365922" duration="258000" />
+      <workItem from="1600874365922" duration="570000" />
     </task>
     <servers />
   </component>
@@ -117,25 +136,25 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="277" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1600873395567" />
-    <state width="1384" height="276" key="GridCell.Tab.0.bottom" timestamp="1600873650902">
+    <state width="1384" height="276" key="GridCell.Tab.0.bottom" timestamp="1600874854837">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1384" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1600873650902" />
-    <state width="1384" height="276" key="GridCell.Tab.0.center" timestamp="1600873650901">
+    <state width="1384" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1600874854837" />
+    <state width="1384" height="276" key="GridCell.Tab.0.center" timestamp="1600874854836">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1384" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1600873650901" />
-    <state width="1384" height="276" key="GridCell.Tab.0.left" timestamp="1600873650901">
+    <state width="1384" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1600874854836" />
+    <state width="1384" height="276" key="GridCell.Tab.0.left" timestamp="1600874854835">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1384" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1600873650901" />
-    <state width="1384" height="276" key="GridCell.Tab.0.right" timestamp="1600873650902">
+    <state width="1384" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1600874854835" />
+    <state width="1384" height="276" key="GridCell.Tab.0.right" timestamp="1600874854837">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1384" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1600873650902" />
+    <state width="1384" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1600874854837" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ECE444_Lab2$hello.coverage" NAME="hello Coverage Results" MODIFIED="1600872847256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flasky" />
-    <SUITE FILE_PATH="coverage/ECE444_Lab2$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1600874690093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ECE444_Lab2$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1600874854812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
